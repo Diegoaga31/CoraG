@@ -13,7 +13,7 @@ Eso va a clonar el repositorio, basicamente vas a poder usarlo tu a pesar de que
       **cd CoraG**
 
 luego escribe:   **ls** 
-si te aparece algo como    **CoraG/**   vas bien, si no me avisas.
+si te aparece algo como    **Corazon_gaby.py	README.md**   vas bien, si no me avisas.
 
 Ya esto es lo ultimo, en la terminal vas a escribir: 
       **python3 Corazon_gaby.py**
